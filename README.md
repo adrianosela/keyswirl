@@ -1,5 +1,5 @@
 # keyswirl
 
-automated key rotation library for replicated authentication services
+<img src="./docs/keyswirl.png" height="200" width="210">
 
-![alt text](./docs/keyswirl.png)
+automated key rotation library for replicated authentication services
